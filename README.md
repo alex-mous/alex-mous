@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- I'm a programmer and hardware maker, specializing in Raspberry Pi
+- I'm a programmer and hardware maker, specializing in Raspberry Pi and web languages such as Node.js
 - Feel free to contact me or contribute to my repositories
 - Thanks for visiting my profile
 
